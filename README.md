@@ -12,3 +12,7 @@ Prior prediction of flight arrival delays is necessary for both travelers and ai
     - https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
     - https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
     - https://www.kaggle.com/code/robikscube/flight-delay-exploratory-data-analysis-twitch
+
+**Logs:**
+
+- 12-Nov: Initialise repositry, add materials to refer, setup directory structure to follow cookie cutter directory structure

@@ -3,8 +3,9 @@ This python script contains utility or helper functions which might help in the 
 """
 
 import zipfile
+from typing import Optional, Dict
 
-def unzip_data(filename: str,data_dir="data") -> None:
+def unzip_data(filename: str,data_dir: Optional[str]="data") -> None:
     """Uzips the files and folders into a directory
 
     Parameters

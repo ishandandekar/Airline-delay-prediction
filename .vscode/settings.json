@@ -1,0 +1,9 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "autopep8",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+    }
+}

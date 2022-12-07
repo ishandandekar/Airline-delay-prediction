@@ -18,3 +18,5 @@ Prior prediction of flight arrival delays is necessary for both travelers and ai
 
 - 12-Nov: Initialise repositary, add materials to refer, setup directory structure to follow cookie cutter directory structure
 - 14-Nov: Make base scripts in the scripts folder, make a base notebook for initial data exploration
+- 07-Dec: Update utility functions
+- 08-Dec: Create data exploration notebook, explore basic features, update utility function's script for better usage

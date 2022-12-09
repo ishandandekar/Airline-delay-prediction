@@ -20,3 +20,4 @@ Prior prediction of flight arrival delays is necessary for both travelers and ai
 - 14-Nov: Make base scripts in the scripts folder, make a base notebook for initial data exploration
 - 07-Dec: Update utility functions
 - 08-Dec: Create data exploration notebook, explore basic features, update utility function's script for better usage
+- 09-Dec: Add csv reading optimization code, make faster csv reading approach, add references for analysis purpose

@@ -13,6 +13,7 @@ Prior prediction of flight arrival delays is necessary for both travelers and ai
     - https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
     - https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
     - https://www.kaggle.com/code/robikscube/flight-delay-exploratory-data-analysis-twitch
+    - https://www.kaggle.com/code/jaminjamin/flight-delays-dt-regression-classification
 
 **Logs:**
 
@@ -21,3 +22,5 @@ Prior prediction of flight arrival delays is necessary for both travelers and ai
 - 07-Dec: Update utility functions
 - 08-Dec: Create data exploration notebook, explore basic features, update utility function's script for better usage
 - 09-Dec: Add csv reading optimization code, make faster csv reading approach, add references for analysis purpose
+- 10-Dec: Change approach and data for project, look into kaggle examples
+- 23-Dec: Procees with one year's data, ananlyze and clean the data
